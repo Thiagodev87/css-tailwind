@@ -6,6 +6,9 @@ module.exports = {
         colors: {
             amarelo: '#E6C744',
             cinza:'#c2c8da'
+          },
+          screens:{
+            '3x1':"1920px"
           }
       },
     },
